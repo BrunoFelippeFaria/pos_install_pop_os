@@ -59,7 +59,3 @@ o go anime é um programa feito em go para assistir animes com uma interface cli
 - neovim
 - vim-plug
 
-### 7. Por fim, faz algumas configurações finais
-
-- configura alliases do sistema
-- importa um wallpapper animado

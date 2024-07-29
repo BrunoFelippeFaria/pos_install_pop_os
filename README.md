@@ -58,7 +58,3 @@ https://github.com/alvarorichard/GoAnime
 - neovim
 - vim-plug
 
-### 7. Finally it makes some final configurations
-
-- configura alliases do sistema
-- importa um wallpapper animado
